@@ -2,8 +2,8 @@
 ===================================
 
 1) Si iniciamos en local 
-	a. 
-	b. 
+	a. git init en el directorio que vamos escribir el proyecto 
+	b. git status  para ver el estado  
 	c. 
 	d.
 	e. 
