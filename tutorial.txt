@@ -1,4 +1,4 @@
-	 TOTTORIAL DE GIT - GITHU
+	 TOTTORIAL DE GIT - GITHUB
 ===================================
 
 1) Si iniciamos en local 
